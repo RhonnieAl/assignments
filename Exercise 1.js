@@ -19,6 +19,6 @@ const nameCaser = (name) => {
 
 
 //Please input your name below:
-console.log(nameCaser("rHonNie allan"))
+console.log(nameCaser("rHonNnie aLLan"))
 
 
