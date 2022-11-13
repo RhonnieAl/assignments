@@ -22,3 +22,8 @@ const nameCaser = (name) => {
 console.log(nameCaser("rHonNnie aLLan"))
 
 
+
+
+
+
+
